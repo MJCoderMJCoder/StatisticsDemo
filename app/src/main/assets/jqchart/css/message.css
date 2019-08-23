@@ -1,0 +1,44 @@
+@charset "UTF-8";
+	  		#left {width:25%;height:190px; background:#FFFFFF;float:left;margin-top:25px;}	
+	  		#right {width:72%;height:190px; background:#FFFFFF; float:right;margin-top:25px;}
+	  		#firstdiv{width:100%;height:80px;background:#F0F0F0;}
+	  		/*头像  */
+	  		#headimg{border-radius:50%;border: 3px solid #AE0000;}
+	  		/*标题字体  */	
+	  		#font1 {font-size:12px;text-align : left}
+	  		#font2 {font-size:8px;text-align : left}
+	  		/*区域1分左右 */
+	  		#leftsmall {width:48%;height:45px; background:#F0F0F0;float:left;position:relative;font-size:8px;}	
+	  		#rightsmall {width:48%;height:45px; background:#F0F0F0; float:right;position:relative; left:-6px;font-size:8px;}
+	  		#allsmall {width:98%;height:70px; background:#F0F0F0; float:right;position:relative; left:-6px;}
+	  		/*区域分割线 */
+	  		#leftsmall1 {width:48%;height:3px; background:#AE0000;float:left;font-size:8px;}	
+	  		#rightsmall1 {width:48%;height:3px; background:#000000; float:right;position:relative; left:-6px;}
+	  		#leftsmall p{font-size:10px;}
+	  		#rightsmall p{font-size:10px;}
+	  		#num1 p{font-size:12px;}
+	  		#num2 p{font-size:12px;}
+	  		#fenge{width:100%;height:10px; background:#FFFFFF; float:right;}
+	  		#fenge1{width:100%;height:5px; background:#F0F0F0; float:right;margin-top:40px;}
+	  		/*区域1第三部分划分 */
+	  		#num1 {width:40%;height:40px; background:#F0F0F0;float:left;margin-top:10px;font-size:8px;}	
+	  		#num2 {width:40%;height:40px; background:#F0F0F0; float:right;margin-top:10px;font-size:8px;}
+	  		#num3 {width:20%;height:40px; background:#F0F0F0; float:right;margin-top:5px;}
+	  		#num3 img{margin-top:30px;}
+	  		#jianyi{font-size:15px;text-align:left;position:relative; left:15px;}
+	  		#jianyi p{font-size:10px;text-align:left;}
+	  		#yijian1{position:relative; left:45px;}
+	  		#yijian2{position:relative; left:45px;}
+	  		#yijian3{position:relative; left:45px;}
+	  		/*字体大小 */
+	  		.size{font-size:15px;font-weight:bold;}
+	  		.size1{font-size:25px;font-weight:bold;}
+	  		#num3 img{margin-top:11px;}
+	  		#img1{margin-top:20px;position:relative; left:-40px;}
+	  		#img2{margin-top:20px;position:relative; left:40px;}
+	  		.square{width:85px;height:85px;background:#FFF;}
+	  		/*统计表的标题样式 */
+	  		#totalAll{width:45%;height:28px;background:#000; align:"left";margin-top:5px;position:relative; left:10px;}
+	  		#totalName{font-size:18px;color:#FFF;text-align:center;margin-top:15px;}
+	  		#three{margin-top:45px;}
+	  		

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+	  		#left {width:25%;height:100px; background:#FFFFFF;float:left;margin-top:25px;}	
+	  		#right {width:72%;height:100px; background:#FFFFFF; float:right;margin-top:25px;}
+	  		#firstdiv{width:100%;height:80px;background:#F0F0F0;}
+	  		/*头像  */
+	  		#headimg{border-radius:50%;border: 3px solid #AE0000;}
+	  		/*标题字体  */	
+	  		#font1 {font-size:12px;text-align : left}
+	  		#font2 {font-size:8px;text-align : left}
+	  		/*区域1分左右 */
+	  		#leftsmall {width:49%;height:60px; background:#F0F0F0;float:left;position:relative;font-size:8px;}	
+	  		#rightsmall {width:49%;height:60px; background:#F0F0F0; float:right;position:relative; left:-6px;font-size:8px;}
+	  		/*区域分割线 */
+	  		#leftsmall1 {width:48%;height:3px; background:#AE0000;float:left;font-size:8px;}	
+	  		#rightsmall1 {width:48%;height:3px; background:#000000; float:right;position:relative; left:-6px;}
+	  		#rightsmall2_1 {margin-top:8px;position:relative; left:-5px;}	
+	  		#rightsmall2_2 {margin-top:1px;position:relative; left:-5px;}
+	  		#rightsmall2_2 .sty{font-size:22px;}
+	  		#leftsmall2_1 {margin-top:8px;position:relative; left:-5px;}	
+	  		#leftsmall2_2 {margin-top:1px;position:relative; left:-5px;}
+	  		#leftsmall2_2 .sty{font-size:22px;}
+	  		#leftsmall p{font-size:10px;}
+	  		#rightsmall p{font-size:10px;}
+	  		#num1 p{font-size:12px;}
+	  		#num2 p{font-size:12px;}
+	  		#fenge{width:100%;height:10px; background:#FFFFFF; float:right;}
+	  		#fenge1{width:100%;height:5px; background:#F0F0F0; float:right;margin-top:40px;}
+	  		/*区域1第三部分划分 */
+	  		#num3 {width:40%;height:40px; background:#F0F0F0; float:left;margin-top:5px;position:relative; left:10px;}
+	  		/*字体大小 */
+	  		.size{font-size:15px;font-weight:bold;}
+	  		.size1{font-size:25px;font-weight:bold;}
+	  		#num3 img{margin-top:11px;}
+	  		#img1{margin-top:20px;position:relative; left:-40px;}
+	  		#img2{margin-top:20px;position:relative; left:40px;}
+	  		.square{width:85px;height:85px;background:#FFF;}
+	  		/*第一部分文字样式*/
+	  		#fittestfont{position:relative; left:1px;float:left;font-size:10px;}
+	  		#shuoming1{position:relative; left:15px;}
+            #biaoti{font-size:18px;position:relative; left:15px;}
+	  		/*表格区域*/
+	  		 #biaogeall{border:1px solid #000;width:93%;height:302px;position:relative; left:15px;}
+            #biaoge1{width:33.3%;height:300px; background:#F0F0F0;float:left;}
+            #biaoge2{width:33.3%;height:300px; background:#F0F0F0;float:left;border:1px solid #000;}
+            #biaoge3{width:33.3%;height:300px; background:#F0F0F0;float:left;}
+            #cufenge{width:82%;height:3px; background:#000000; float:right;position:relative; left:-11px;border:1px solid #000;}
+            #fontstyle{text-align:center;font-size:14px;}

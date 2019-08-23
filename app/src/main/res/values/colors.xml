@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 统计自定义 -->
+    <color name="colorFont">#DBDADF</color>
+    <color name="colorBackground">#323544</color>
+    <color name="colorHighLight">#B81F34</color>
+
+    <!-- 排行榜 -->
+    <color name="colorRankingMyBack">#1D1F2E</color>
+    <color name="colorRankingFirstBack">#47443D</color>
+    <color name="colorRankingFirstFont">#F5C621</color>
+
+    <color name="colorRankingSecondBack">#3C4857</color>
+    <color name="colorRankingSecondFont">#ABEBFF</color>
+    <color name="colorRankingThirdBack">#423E3F</color>
+    <color name="colorRankingThirdFont">#D17D10</color>
+    <color name="colorRankingBlackFont">#303547</color>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="rankingType_array">
+        <item >"举重磅数"</item>
+        <item >"卡路里消耗"</item>
+        <item >"行走步数"</item>
+    </string-array>
+    <string-array name="rankingRange_array">
+        <item >"全球"</item>
+        <item >"好友"</item>
+    </string-array>
+
+</resources>
